@@ -1,6 +1,6 @@
-# Hi, I'm [Kingsley]
+# Hi, I'm Kingsley
 
-![Your Profile Image](https://ibb.co/ZHRDSvz)
+!https://ibb.co/ZHRDSvz
 
 I'm a passionate and results-driven Data Analyst with a penchant for transforming raw data into actionable insights. With a background in [Your Relevant Background], I excel at extracting knowledge from complex datasets and communicating it effectively to drive informed decision-making.
 
