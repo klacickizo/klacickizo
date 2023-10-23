@@ -1,8 +1,6 @@
 # Hi, I'm Kingsley
 
-[img]https://i.ibb.co/LQD7rBd/photo-2023-10-23-11-57-27.jpg[/img]
-
-I'm a passionate and results-driven Data Analyst with a penchant for transforming raw data into actionable insights. With a background in [Your Relevant Background], I excel at extracting knowledge from complex datasets and communicating it effectively to drive informed decision-making.
+I'm a passionate and results-driven Data Analyst with a penchant for transforming raw data into actionable insights. With a background in Excel and Power BI, I excel at extracting knowledge from complex datasets and communicating it effectively to drive informed decision-making.
 
 ## My Expertise
 
@@ -26,9 +24,8 @@ I'm a passionate and results-driven Data Analyst with a penchant for transformin
 
 ## Let's Connect
 
-I'm always interested in new data challenges and collaborations. Feel free to reach out to me via [Your Contact Information].
+I'm always interested in new data challenges and collaborations. Feel free to reach out to me via +2347035123479.
 
 Let's turn data into insights, and insights into actions. Together.
 
-![Your Signature](URL_to_Your_Signature)
 
