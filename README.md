@@ -1,6 +1,6 @@
 # Hi, I'm Kingsley
 
-!https://ibb.co/ZHRDSvz
+![Your Profile Image]<a href="https://ibb.co/ZHRDSvz"><img src="https://i.ibb.co/LQD7rBd/photo-2023-10-23-11-57-27.jpg" alt="photo-2023-10-23-11-57-27" border="0"></a>
 
 I'm a passionate and results-driven Data Analyst with a penchant for transforming raw data into actionable insights. With a background in [Your Relevant Background], I excel at extracting knowledge from complex datasets and communicating it effectively to drive informed decision-making.
 
