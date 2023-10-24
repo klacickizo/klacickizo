@@ -22,6 +22,9 @@ I'm a passionate and results-driven Data Analyst with a penchant for transformin
 
 - **Continuous Learner**: The data world is ever-evolving, and I love to keep up with the latest trends and technologies.
 
+## My Tools
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
 ## Let's Connect
 
 I'm always interested in new data challenges and collaborations. Feel free to reach out to me via +2347035123479.
